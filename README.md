@@ -81,19 +81,7 @@ These results should be interpreted as statistical associations rather than caus
 - Seaborn
 - Statsmodels
 
----
 
-## Repository Structure
-
-```
-├── data/
-├── notebooks/
-├── figures/
-├── report/
-├── README.md
-```
-
----
 
 ## References
 
