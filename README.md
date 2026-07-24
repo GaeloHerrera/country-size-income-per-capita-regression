@@ -106,7 +106,7 @@ These results should be interpreted as statistical associations rather than caus
 
 
 
-## Key Skills Demonstrated
+## Key Skills 
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
